@@ -46,3 +46,4 @@ CTestTestfile.cmake
 # Project
 *qtcsv_tests
 *worldcitiespop.txt
+.qtcreator/
